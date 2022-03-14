@@ -1,0 +1,21 @@
+[submodule "test/yoo0lh-tester"]
+	path = test/yoo0lh-tester
+	url = https://github.com/Yoo0lh/pipex_tester_42.git
+[submodule "test/gmarcha-tester"]
+	path = test/gmarcha-tester
+	url = https://github.com/gmarcha/pipexMedic.git
+[submodule "test/mariadaan-pipexaminator"]
+	path = test/mariadaan-pipexaminator
+	url = git@github.com:mariadaan/PIPEXaminator.git
+[submodule "test/vfurmane-pipextester"]
+	path = test/vfurmane-pipextester
+	url = https://github.com/vfurmane/pipex-tester.git
+[submodule "test/gmarcha-pipexmedic"]
+	path = test/gmarcha-pipexmedic
+	url = https://github.com/gmarcha/pipexMedic.git
+[submodule "test/yoo0lh-pipex_tester"]
+	path = test/yoo0lh-pipex_tester
+	url = https://github.com/Yoo0lh/pipex_tester_42.git
+[submodule "test/vfurmane-pipex-tester"]
+	path = test/vfurmane-pipex-tester
+	url = https://github.com/vfurmane/pipex-tester.git
